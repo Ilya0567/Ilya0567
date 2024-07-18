@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExODBkdHZnanE4bWkxanZ5Z2s1Y2F2eG1wMmZtZ3piY3o4aXIzNmI1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxYc2axjCJNsCXyE/giphy.gif" width="200"/>
   <div id="badges">
@@ -10,6 +8,10 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=blue" alt="Telegram Badge"/>
   </a>
     <img src="https://komarev.com/ghpvc/?username=Ilya0567&style=flat-square&color=blue" alt=""/>
+    <h1>
+  Hi, I'm Ilya Betsukeli
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 </div>
 </div>
 </div>
