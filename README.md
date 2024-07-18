@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://cdnl.iconscout.com/lottie/premium/thumb/machine-learning-4835198-4019933.mp4" width="100"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExang1aXUzbmVqbms3MXM4cDQzcjBva3lscWtmaGZwMHpyODd4ZjVidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0IQZvzcyYKXQPok/giphy.gif" width="100"/>
 </div>
 </div>
 
