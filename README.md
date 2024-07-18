@@ -19,7 +19,7 @@
 ---
 
 ### :man_technologist: About Me :
-Я Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+Я Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Москвы.
 - :telescope: Я работаю ML-инженером в медицинском стартапе, где разрабатываю и поддерживаю telegram-бота.
 
 - :seedling: Учусь в магистратуре МФТИ (Московский физико-технический институт) по направлению Data Science.
