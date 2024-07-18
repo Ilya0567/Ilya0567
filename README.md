@@ -16,9 +16,19 @@
 </div>
 </div>
 
+---
+
+### :man_technologist: About Me :
+I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+- :telescope: I work as an ML engineer at a medical startup, where I develop and support a telegram bot.
+
+- :seedling: I am engaged in data analysis.
+
+- :zap: I read articles on the topic of innovations in the field of AI.
+
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Ilya0567-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/IlyaBetsukeli)
 
 <!--
-**Ilya0567/Ilya0567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
