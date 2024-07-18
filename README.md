@@ -28,6 +28,53 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Ilya0567-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/IlyaBetsukeli)
 
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<a href="https://www.python.org/">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python">
+</a>
+<a href="https://pandas.pydata.org/">
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" alt="Pandas">
+</a>
+<a href="https://numpy.org/">
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" alt="NumPy">
+</a>
+<a href="https://scikit-learn.org/">
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge" alt="Scikit-learn">
+</a>
+<a href="https://www.tensorflow.org/">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" alt="TensorFlow">
+</a>
+<a href="https://pytorch.org/">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" alt="PyTorch">
+</a>
+<a href="https://git-scm.com/">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git">
+</a>
+<a href="https://ubuntu.com/">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" alt="Ubuntu">
+</a>
+<a href="https://www.postgresql.org/">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL">
+</a>
+<a href="https://dbeaver.io/">
+  <img src="https://img.shields.io/badge/DBeaver-372923?logo=dbeaver&logoColor=white&style=for-the-badge" alt="DBeaver">
+</a>
+<a href="https://www.mongodb.com/">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB">
+</a>
+<a href="https://jupyter.org/">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge" alt="Jupyter">
+</a>
+<a href="https://keras.io/">
+  <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=for-the-badge" alt="Keras">
+</a>
+<a href="https://www.docker.com/">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker">
+</a>
+
+
 <!--
 
 Here are some ideas to get you started:
