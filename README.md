@@ -9,6 +9,7 @@
   <a href="https://t.me/IlyaBetsukeli">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=blue" alt="Telegram Badge"/>
   </a>
+    <img src="https://komarev.com/ghpvc/?username=Ilya0567&style=flat-square&color=blue" alt=""/>
 </div>
 </div>
 </div>
