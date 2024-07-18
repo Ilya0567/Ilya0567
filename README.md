@@ -19,14 +19,14 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-- :telescope: I work as an ML engineer at a medical startup, where I develop and support a telegram bot.
+Я Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+- :telescope: Я работаю ML-инженером в медицинском стартапе, где разрабатываю и поддерживаю telegram-бота.
 
-- :seedling: I am engaged in data analysis.
+- :seedling: Учусь в магистратуре МФТИ (Московский физико-технический институт) по направлению Data Science.
 
-- :zap: I read articles on the topic of innovations in the field of AI.
+- :zap: Регулярно читаю статьи на тему инноваций в области искусственного интеллекта.
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Ilya0567-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/IlyaBetsukeli)
+- :mailbox: Как связаться:  [![Telegram Badge](https://img.shields.io/badge/-Ilya0567-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/IlyaBetsukeli)
 
 ---
 
@@ -73,6 +73,15 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 <a href="https://www.docker.com/">
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker">
 </a>
+<a href="https://www.w3schools.com/sql/">
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=sql&logoColor=white&style=for-the-badge" alt="SQL">
+</a>
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ilya0567&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ilya0567&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
